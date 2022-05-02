@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;600&display=swap');
+body{
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+.container{
+    background-color: #04162C;
+    position:relative;
+    width:260px;
+    height: 1677px;
+}
+
+img{
+    height: 34.94px;
+  width: 150.04px;
+}
+
+li{
+    list-style-type:none;
+    line-height: 70px;
+}
+.dashboard{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family:Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+}
+.member{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+
+}
+.projects{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+}
+.clients{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+}
+.workplan{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+}
+.message{
+    height: 20px;
+    width: 88px;
+    color: rgba(147,149,152,0.84);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21px;
+
+}
+.icon-speedometer-outline-selected{
+    height: 24px;
+    width: 24px;
+}
+.ic-people-outline-selected {
+    height: 24px;
+    width: 24px;
+}
+.ic-briefcase-selected-icon-bri {
+        height: 24px;
+        width: 24px;
+}
+.ic-rocket-selected-icon-startu {
+    height: 24px;
+    width: 24px
+}
+.ic-calendar-selected-icon-date {
+    height: 24px;
+    width: 24px;
+  }
+  .ic-chat-selected-icon-chat-sel {
+    height: 24px;
+    width: 24px;
+
+  }
+  .search{
+    height: 48px;
+    width: 360px;
+    border-radius: 4px;
+    background-color: rgba(0,0,0,0.05);
+    margin-left:310px;
+    
+
+}
+.search input{
+    height: 17px;
+  width: 148px;
+  color: #939598;
+  font-family: Poppins;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  outline:none;
+  border:none;
+  
+  
+
+}
